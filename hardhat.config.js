@@ -4,7 +4,7 @@ module.exports = {
   networks: {
     hardhat: {
       forking: {
-        url: "https://0xdao.globe.ftm.node.web3rpc.com/",
+        url: "https://rpc01-sg.dogechain.dog",
         gasMultiplier: 2
       },
     },
